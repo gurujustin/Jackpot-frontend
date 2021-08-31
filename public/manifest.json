@@ -1,0 +1,16 @@
+{
+  "short_name": "Jackpot",
+  "name": "Jackpot",
+  "description": "Best Jackpot Game on Ethereum",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/x-icon",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
